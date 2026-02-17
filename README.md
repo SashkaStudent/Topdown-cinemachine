@@ -1,5 +1,5 @@
 # Topdown camera (Cinemachine)
-## Top-down Camera for Unity + Cinemachine
+<video controls src="media/topdowndemo.mp4" title="Title"></video>
 
 ### Features
 
@@ -7,8 +7,8 @@
 - Smooth zoom using **Cinemachine Mixing Camera**  
 - Camera movement with **WASD**  
 - Example of switching to an **overview camera** with the **TAB** key  
+
 ---
-## Topdown камера для Unity + Cinemachine.
 
 ### Реализовано:
  - орбитальное вращение вокруг центра
