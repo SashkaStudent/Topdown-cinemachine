@@ -1,6 +1,6 @@
 # Topdown camera (Cinemachine)
-<video controls src="media/topdowndemo.mp4" title="Title"></video>
-
+## YouTube video
+[![Unity Top-Down Camera Demo](https://img.youtube.com/vi/D4Gny7Jzeig/sddefault.jpg)](https://www.youtube.com/watch?v=D4Gny7Jzeig)
 ### Features
 
 - Orbital rotation around the center  
